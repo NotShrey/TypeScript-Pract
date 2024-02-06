@@ -1,0 +1,12 @@
+revision for my dumb brain
+
+how ur typescript code will change into js depends on the change/tweaks made in tsconfig.json
+
+package.json = dependency etc etc
+
+target in tsconfig refers to the ETMA script of change the new code (es6) eg a arrow function to a normal function which a old browser can understand so we could change it by changing our target to es5 or es6 
+
+//so the basic difference would be interface lets us extend a class by implementing it
+//and type does the same thing but we can do & and or(|) with the data types
+
+when to use ENUMS when u surely know that there are finite set of opreations that need to be perform in this case moving up down left and right cannot give input like upperleft etc etc to it
